@@ -14,5 +14,14 @@ DO NOT TAMPER WITH THE _JXON FILE BY ANY MEANS!!!
 This file is essential to the functionality of the code overall and should not be altered in any way.
 
 The original _JXON GITHUB is linked below. Thank you so much to cocobelgica!
+
 https://github.com/cocobelgica/AutoHotkey-JSON/blob/master/Jxon.ahk
+
+And thank you so much to mryeester on Youtube for the original insperation!
+
+https://www.youtube.com/@mryeester
+
+P.S - For generating ASCII Codes for the launch.bat files. Here is the common link I use for all of my ASCII text Generation:
+
+https://www.asciiart.eu/text-to-ascii-art
 
